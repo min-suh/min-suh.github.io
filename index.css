@@ -27,8 +27,24 @@ h1, h2 {
 
 ul {
   list-style-position: inside;
-  margin-right: 40px;
   font-size: 20px;
+  display: inline-block;
+  Width: 20%;
+  font-family: 'Lucida Sans';
+  
+}
+
+.under {
+  text-decoration: underline;
+}
+
+li{
+  margin-top: 3vw;
+}
+
+
+.list {
+  margin-left: -3vw;
 }
 
 .intro {

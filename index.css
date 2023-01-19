@@ -4,6 +4,11 @@
  
 }
 
+.mypic {
+  width: 10%;
+  height: 10%;
+}
+
 .footer {
   position:absolute;
   bottom:0;

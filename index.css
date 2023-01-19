@@ -1,9 +1,28 @@
+header {
+  background-color: rgb(230, 230, 255);
+ border-radius: 1px;
+ border-color: black;
+ border-style: solid;
+ margin:0;
+    padding:0;
+
+}
+
+footer {
+  background-color:rgb(230, 230, 255);
+ 
+  padding: 10px;
+  margin-bottom: 0;
+  
+}
+
 .intro {
   width : 50%;
 }
 
 h1 {
   position: sticky;
+  margin: 0px;
 }
 
 .link {

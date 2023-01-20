@@ -31,8 +31,10 @@ body {
 
 .content {
   position: relative;
-  min-height: 100vh; 
-  padding-bottom: 2.5rem;
+  min-height: 100vh;
+  
+ 
+  
 }
 
 body, html {
@@ -69,7 +71,8 @@ li{
 
 
 .list {
-  margin-left: -3vw;
+  margin-left: -4vw;
+ 
 }
 
 .intro {
@@ -81,7 +84,9 @@ li{
   height: 10%;
 }
 
-
+footer {
+  position: sticky;
+}
 
 
 @media (max-width: 320px) { }
